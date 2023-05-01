@@ -1,0 +1,6 @@
+##IF SOME TROUBLE WITH SUDO DURING EXEC CONTAINER OCCURS LAUNCH THIS ON THE CONTAINER
+apt-get update && \
+      apt-get -y install sudo #For install sudo on container
+
+## CLONE THE REPO
+git clone https://github.com/PX4/PX4-Autopilot.git --recursive
