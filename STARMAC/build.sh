@@ -1,1 +1,1 @@
-docker build -t myimage:latest .
+docker build -t starmac .
