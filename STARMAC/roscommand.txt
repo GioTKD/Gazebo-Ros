@@ -1,0 +1,1 @@
+roslaunch gazebo_ros empty_world.launch #This will launch the Gazebo virtual world simulator with a default, empty world.
